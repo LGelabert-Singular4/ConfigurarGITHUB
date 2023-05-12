@@ -44,6 +44,6 @@ EJEMPLO
 
 `git clone https://github.com/GelabertLucas/RWCPrueba.git`
 
-Ahi **nos saldra una pestaña de Git que nos dira que nos tenemos que loguear**. En esa pestaña vamos a token y pegamos ahi el [token](TOKEN.MD) y le damos en aceptar.
+Ahi **nos saldra una pestaña de Git que nos dira que nos tenemos que loguear**. En esa pestaña vamos a token y pegamos ahi el [token](TOKEN.md) y le damos en aceptar.
 
 Listo, Ya tenemos el repositorio clonado en la carpeta "C:/usuarios/TUUSUARIO/NOMBREREPO"
