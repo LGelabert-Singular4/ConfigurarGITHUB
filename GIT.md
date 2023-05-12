@@ -36,7 +36,7 @@ git config --global user.email "TUEMAIL"
 
 ## CLONAR REPO
 
-Para clonar el Repositorio vamos a el REPO que queremos clonar y **clickeamos donde dice "<> CODE"** y de ahi se desplegara un url que tendremos que copiar.
+Para clonar el Repositorio vamos a el REPO que queremos clonar y **clickeamos donde dice "<> Code"** y de ahi se desplegara un url que tendremos que copiar.
 
 Luego de esto vamos a la CMD y ponemos git clone y pegamos el url:
 
