@@ -25,4 +25,13 @@ https://git-scm.com/download
 
 Luego darle a **"Download For *sistema operativo que tengas*"** y luego a **"Click here to download"** y se les descargara la version ultima de git con formato .EXE, le damos click y la **instalamos de la manera que viene default**.
 
+### CONFIGURACION DE GIT
 
+Luego de haber instalado GIT toca configurarlo, para esto hay que **abrir la CMD y poner estos dos comandos**
+
+```
+git config --global user.name "NOMBRE"
+git config --global user.email "EMAIL"
+```
+
+## CLONAR REPO
