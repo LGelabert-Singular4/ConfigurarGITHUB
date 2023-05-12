@@ -40,7 +40,7 @@ Para clonar el Repositorio vamos a el REPO que queremos clonar y **clickeamos do
 
 Luego de esto vamos a la CMD y ponemos git clone y pegamos el url:
 
-EJEMPLO
+ - EJEMPLO
 
 `git clone https://github.com/GelabertLucas/RWCPrueba.git`
 
