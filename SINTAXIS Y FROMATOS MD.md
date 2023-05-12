@@ -26,3 +26,5 @@ Cursiva en negrita y anidada|  ```** ** y _ _```|-|**This text is _extremely_ im
 Todo en negrita y cursiva|```*** ***```|-|***All this text is important***|Todo este texto es importante
 Subscript|```<sub> </sub>```|-|<sub>This is a subscript text</sub>|Se trata de un texto de subíndice
 Superscript|```<sup> </sup>```|-|<sup>This is a superscript text</sup>|Se trata de un texto de superíndice
+
+#000000
