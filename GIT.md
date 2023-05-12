@@ -1,2 +1,23 @@
-# ConfigurarGITHUB
-Repositorio creado para la documentacion de la creacion y utilizacion de GITHUB
+# GIT
+
+## ¿Que Es GIT?
+
+Git es un **sistema de control de versionado** que, trabajando con otras personas sobre el mismo código, nos permite mantener un historial sobre los cambios realizados diciéndonos quién, cuándo y qué se realizó sobre un proyecto en común.
+
+## ¿Que Es Un Repositorio?
+
+Un repositorio podría considerarse un lugar virtual en el que se van a guardar todos los commits asociados a un proyecto. **Un commit** es un conjunto de cambios en tu proyecto y está asociado a un momento dado del mismo, **a una versión**. Git nos permite controlar los cambios y, de ser necesario, retornar a una versión anterior (o un commit anterior).
+
+Con Git, trabajaremos con un repositorio local y un repositorio remoto. Pero, *¿qué significa esto?*
+
+## Repo Local VS Remoto
+
+Cuando hablamos de **repositorio remoto**, nos referimos al proyecto y sus versiones que se encuentran hospedados en internet como, por ejemplo, en GitHub, en cambio cuando hablamos de repositorio a nivel local, nos referimos al proyecto hospedado dentro de nuestra máquina.
+
+Siempre que hagamos un cambio en nuestro proyecto, el mismo será local. Esto significa que, salvo que los subamos al repositorio remoto, nuestros compañeros no podrán verlo ni accederlo.
+Por otro lado, cuando nuestros compañeros hagan sus propios cambios y los suban al repositorio remoto, nuestro proyecto no verá esos cambios localmente de forma automática. Es por eso, que tendremos que encargarnos de mantenerlo actualizado.
+
+# INSTALACION DE GIT
+
+
+
