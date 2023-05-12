@@ -7,7 +7,7 @@ https://docs.github.com/es/get-started/writing-on-github/getting-started-with-wr
 ### Encabezados
 
 ```
-# A first-level heading
-## A second-level heading
-### A third-level heading
+# Encabezado De Primer Nivel
+## Encabezado De Segundo Nivel
+### Encabezado De Tercer Nivel
 ```
