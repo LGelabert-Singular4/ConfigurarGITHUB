@@ -11,5 +11,5 @@ Luego de eso **buscar el boton SingUp** arriba a la derecha y crear la cuenta co
 
 Luego de creada la cuenta podriamos **seguir configurando GIT** en la seccion de 
 
-[GIT](main/GIT.md)
+[GIT](ConfigurarGITHUB/blob/main/GIT.md)
 
