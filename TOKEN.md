@@ -10,5 +10,5 @@ Para conseguir el **TOKEN** tenemos que **seguir los pasos** que estan acontinua
 6. En *NOTE* le ponemos el nombre de token y mas abajo tildamos la opcion que dice **"repo"**.
 7. **Expiration:** Esto es **lo que durara nuestro token**, luego de esto tendremos que generar otro, se puede poner para que no tenga fecha de caducidad y funcionara para siempre hasta que se elimine.
 8. Luego vamos abajo de todo y ponemos **"Generate Token"**.
-9. Copiamos el Token.
+9. **Copiamos el Token**.
 
