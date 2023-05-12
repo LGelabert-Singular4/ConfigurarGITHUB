@@ -30,8 +30,20 @@ Luego darle a **"Download For *sistema operativo que tengas*"** y luego a **"Cli
 Luego de haber instalado GIT toca configurarlo, para esto hay que **abrir la CMD y poner estos dos comandos**
 
 ```
-git config --global user.name "NOMBRE"
-git config --global user.email "EMAIL"
+git config --global user.name "TUNOMBRE"
+git config --global user.email "TUEMAIL"
 ```
 
 ## CLONAR REPO
+
+Para clonar el Repositorio vamos a el REPO que queremos clonar y **clickeamos donde dice "<> CODE"** y de ahi se desplegara un url que tendremos que copiar.
+
+Luego de esto vamos a la CMD y ponemos git clone y pegamos el url:
+
+EJEMPLO
+
+`git clone https://github.com/GelabertLucas/RWCPrueba.git`
+
+Ahi **nos saldra una pestaña de Git que nos dira que nos tenemos que loguear**. En esa pestaña vamos a token y pegamos ahi el [token](TOKEN.MD) y le damos en aceptar.
+
+Listo, Ya tenemos el repositorio clonado en la carpeta "C:/usuarios/TUUSUARIO/NOMBREREPO"
