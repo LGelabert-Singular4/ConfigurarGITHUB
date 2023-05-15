@@ -22,18 +22,21 @@ Luego de eso **buscar el boton SingUp** arriba a la derecha y crear la cuenta co
 Cuando **alguien te busca** en GITHUB puede hacerlo **a travez de estos dos**.
 
 <details>
-<summary> ## INDICE </summary>
+
+## INDICE 
 
 ### GIT
-
+<details>
 Luego de creada la cuenta podriamos **seguir configurando GIT** en la seccion de [GIT](GIT.md)
+</details>
 
 ### PUSH Y PULL
-
+<details>
 Luego de clonar el repositorio llega la hora de ponerse a modificarlo, para esto aprenderemos como hacer [PUSH Y PULL](PUSHYPULL.md)
+</details>
 
 ### REPOSITORIOS
-
+<details>
 Ahora que ya sabemos como usarlo, aprenderemos a crear un [REPOSITORIO](REPOSITORIOS.md)
-
+</details>
 </details>
