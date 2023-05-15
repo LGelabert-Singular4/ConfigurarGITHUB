@@ -33,7 +33,7 @@ Si el push es aceptado, Git intentará de fusionar los cambios automáticamente.
 
 Si GIT reconoce que hubo cambios de dos fuentes diferentes sobre un mismo archivo y línea, esto generaría lo que se conoce como [MERGE CONFLICT](MERGECONFLICT.md) y nos pediría que revisemos manualmente la diferencia entre ambos y aceptemos la modificación que corresponda. Luego de arreglar un conflicto, el resultado debe ser incluido con git add seguido de git commit.
 
-Es decir, que la secuencia seria:
+Es decir, como conclucion **la secuencia para hacer un push seria**:
 
 ```
 git add .
@@ -43,5 +43,19 @@ git push
 
 ## PULL
 
-Este comando nos permite traer todos los cambios que existen en el repositorio remoto que todavía no tengo de forma local en la rama actual.
-Lo ejecutamos simplemente corriendo $ git pull.
+Este comando nos permite **traer todos los cambios que existen en el repositorio remoto** que todavía no tengo de forma local en la rama actual.
+
+# PULL
+
+Para hacer un pull lo primero que hay que hacer es **subir nuestro proyecto a nuestro repositorio local** como hicimos anteriormente. Esto se hacia con los comandos:
+
+```
+git add .
+git commit -m "Cambios Ejemplo"
+```
+
+Luego de esto lo que tenemos que hacer es **ejecutar el comando**:
+
+`git pull`
+
+**Listo**, ya trajimos todo lo que estaba en el **repositorio remoto de GITHUB a tu repo local**.
