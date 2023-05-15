@@ -23,6 +23,8 @@ Al darle a **NEW** nos saldra la configuracion del repositorio, aca podras confi
 
 ### AGREGAR PERSONAS A UN REPOSITORIO PRIVADO
 
-Para agregar personas a un repo privado lo que hay que hacer es ir a tu repositorio y seleccionar la pestaña...(proximamente)
+Para **agregar personas** a un repo privado lo que hay que hacer es **ir a tu repositorio** y seleccionar la pestaña de *Settings* dentro de nuestro Repositorio. Dentro de esta pestaña en el lado izquierdo hay un elemento llamado *Collaborators*, al darle click te lleva a una pestaña donde hay un recuadro con la opcion *Add People*, esta **te permite agregar gente para que pueda, ver, modificar y clonar el repositorio**.
+
+Para **buscar a una persona** lo podemos hacer **mediante su MAIL o USER** que pusimos al momento de crar la cuenta, cuando se lo agrega se le enviara un mail automatico a la persona con la invitacion al repositorio, cuando esta persona lo acepte se agregara a su repositorio como *member* y podra colaborar en el mismo.
 
 VOLVER AL [README](README.md)
