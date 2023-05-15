@@ -27,4 +27,4 @@ Para **agregar personas** a un repo privado lo que hay que hacer es **ir a tu re
 
 Para **buscar a una persona** lo podemos hacer **mediante su MAIL o USER** que pusimos al momento de crar la cuenta, cuando se lo agrega se le enviara un mail automatico a la persona con la invitacion al repositorio, cuando esta persona lo acepte se agregara a su repositorio como *member* y podra colaborar en el mismo.
 
-VOLVER AL [README](tree/main#indice.md)
+VOLVER AL [README](README.md#indice)

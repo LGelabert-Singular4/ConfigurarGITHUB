@@ -48,4 +48,4 @@ Ahi **nos saldra una pestaña de Git que nos dira que nos tenemos que loguear**.
 
 **LISTO**, Ya tenemos el repositorio clonado en la carpeta "C:/usuarios/TUUSUARIO/NOMBREREPO"
 
-VOLVER AL [README](README.md)
+VOLVER AL [README](README.md#indice)

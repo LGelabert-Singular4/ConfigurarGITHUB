@@ -60,4 +60,4 @@ Luego de esto lo que tenemos que hacer es **ejecutar el comando**:
 
 **Y listo**, ya trajimos todo lo que estaba en el **repositorio remoto de GITHUB a tu repo local**.
 
-VOLVER AL [README](README.md)
+VOLVER AL [README](README.md#indice)
