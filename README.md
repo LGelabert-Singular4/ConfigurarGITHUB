@@ -21,9 +21,11 @@ Luego de eso **buscar el boton SingUp** arriba a la derecha y crear la cuenta co
 
 Cuando **alguien te busca** en GITHUB puede hacerlo **a travez de estos dos**.
 
-<details>
+
 
 ## INDICE 
+<details>
+<summary> ABRIR </summary>
 
 ### GIT
 <details>
