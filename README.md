@@ -8,9 +8,9 @@ Repositorio creado para la documentacion de la **_creacion y utilizacion_ de GIT
 - [x] Git
 - [x] Push Y Pull
 - [x] Repositorios
-- [] Merge Conflict
-- [] Empreasas
-- [] Teams
+- [ ] Merge Conflict
+- [ ] Empreasas
+- [ ] Teams
 
 
 ## CREACION DE CUENTA
