@@ -43,9 +43,9 @@ git push
 
 ## PULL
 
-Este comando nos permite **traer todos los cambios que existen en el repositorio remoto** que todavía no tengo de forma local en la rama actual.
+Este comando nos permite **traer todos los cambios que existen en el repositorio remoto** que todavía no tengo de forma local en la rama actual. Se utiliza cuando **en un proyecto se trabaja de manera conjunta con otras personas**, es decir, que **lo recomendable es hacer un pull siempre antes de empezar a trabajar** para estar sincronizado con el repositorio remoto si alguien mas lo modifico.
 
-# PULL
+### PULL
 
 Para hacer un pull lo primero que hay que hacer es **subir nuestro proyecto a nuestro repositorio local** como hicimos anteriormente. Esto se hacia con los comandos:
 
@@ -58,4 +58,4 @@ Luego de esto lo que tenemos que hacer es **ejecutar el comando**:
 
 `git pull`
 
-**Listo**, ya trajimos todo lo que estaba en el **repositorio remoto de GITHUB a tu repo local**.
+**Y listo**, ya trajimos todo lo que estaba en el **repositorio remoto de GITHUB a tu repo local**.
