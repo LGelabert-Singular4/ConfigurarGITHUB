@@ -21,7 +21,8 @@ Luego de eso **buscar el boton SingUp** arriba a la derecha y crear la cuenta co
 
 Cuando **alguien te busca** en GITHUB puede hacerlo **a travez de estos dos**.
 
-## INDICE
+<details>
+<summary> ## INDICE </summary>
 
 ### GIT
 
@@ -35,3 +36,4 @@ Luego de clonar el repositorio llega la hora de ponerse a modificarlo, para esto
 
 Ahora que ya sabemos como usarlo, aprenderemos a crear un [REPOSITORIO](REPOSITORIOS.md)
 
+</details>
