@@ -31,7 +31,7 @@ Si el push es aceptado, Git intentará de fusionar los cambios automáticamente.
 
 `git push`
 
-Si reconociera que hubo cambios de dos fuentes diferentes sobre un mismo archivo y línea, esto generaría lo que se conoce como [MERGE CONFLICT](MERGE CONFLICT.md) y nos pediría que revisemos manualmente la diferencia entre ambos opciones y aceptemos la modificación que corresponda. Luego de arreglar un conflicto, el resultado debe ser incluido con git add seguido de git commit.
+Si reconociera que hubo cambios de dos fuentes diferentes sobre un mismo archivo y línea, esto generaría lo que se conoce como [MERGE CONFLICT](MERGECONFLICT.md) y nos pediría que revisemos manualmente la diferencia entre ambos opciones y aceptemos la modificación que corresponda. Luego de arreglar un conflicto, el resultado debe ser incluido con git add seguido de git commit.
 
 ## PULL
 
