@@ -24,3 +24,5 @@ Al darle a **NEW** nos saldra la configuracion del repositorio, aca podras confi
 ### AGREGAR PERSONAS A UN REPOSITORIO PRIVADO
 
 Para agregar personas a un repo privado lo que hay que hacer es ir a tu repositorio y seleccionar la pestaña...(proximamente)
+
+VOLVER AL [README](README.md)
