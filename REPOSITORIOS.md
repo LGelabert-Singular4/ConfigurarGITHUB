@@ -13,11 +13,11 @@ Para crear un repositorio le damos a **NEW**
 
 Al darle a **NEW** nos saldra la configuracion del repositorio, aca podras configurar todas las caracteristicas del mismo.
 
-- Lo primero que haremos es ponerle un nombre, este se pone al lado de donde esta tu nombre de usuario que dice *Repository name*
-- Luego puedes ponele una descripcion de lo que sera ese repositorio. (Esto es Opcional)
-- En la siguiente opcion debes seleccionar si quieres que tu Repo sea Privado o Publico, si es privado, nadie lo podra ver ni buscar a menos que lo agregues, si es publico todo el mundo vera el repositorio y lo podra buscar en la barra de busqueda de GITHUB, como este repo.
-- Por ultimo te da la opcion de crear o no un *README*, el archivo README es un archivo .md en que podras poner descripciones o guias de lo que sera tu repositorio y codigo. Este repositorio tiene su archivo [README](README.md) donde esta el indice.
-- Las demas opciones por ahora no nos importan, asi que le damos a *Create Repository*
+- Lo primero que haremos es **ponerle un nombre**, este se pone al lado de donde esta tu nombre de usuario que dice *Repository name*
+- Luego puedes **ponerle una descripcion** de lo que sera ese repositorio. (Esto es Opcional)
+- En la siguiente opcion debes seleccionar si quieres que tu **Repo sea Privado o Publico**, si es privado, nadie lo podra ver ni buscar a menos que lo agregues, si es publico todo el mundo vera el repositorio y lo podra buscar en la barra de busqueda de GITHUB, como este repo.
+- Por ultimo te da la opcion de **crear o no un *README***, el archivo README es un archivo .md en que podras poner descripciones o guias de lo que sera tu repositorio y codigo. Este repositorio tiene su archivo [README](README.md) donde esta el indice.
+- Las demas opciones por ahora no nos importan, asi que **le damos a *Create Repository***
 
 **Y listo** ya tienes tu repositorio creado
 
