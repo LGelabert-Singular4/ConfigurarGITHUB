@@ -13,5 +13,9 @@ Luego de creada la cuenta podriamos **seguir configurando GIT** en la seccion de
 
 ### PUSH Y PULL
 
-Luego de clonar el repositorio llega la hora de ponerse a modificarlo y subirlo, para esto aprenderemos como hacer [PUSH Y PULL](PUSH_Y_PULL.md)
+Luego de clonar el repositorio llega la hora de ponerse a modificarlo, para esto aprenderemos como hacer [PUSH Y PULL](PUSH_Y_PULL.md)
+
+### REPOSITORIOS
+
+Ahora que ya sabemos como usarlo, aprenderemos a crear un [REPOSITORIO](REPOSITORIOS.md)
 
