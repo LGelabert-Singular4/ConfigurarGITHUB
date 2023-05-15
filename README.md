@@ -2,6 +2,17 @@
 
 Repositorio creado para la documentacion de la **_creacion y utilizacion_ de GITHUB**
 
+### AGREGADOS
+
+[x] Creacion de cuenta
+[x] Git
+[x] Push Y Pull
+[x] Repositorios
+[] Merge Conflict
+[] Empreasas
+[] Teams
+
+
 ## CREACION DE CUENTA
 
 Lo primero que hay que hacer es **entrar a este link**: https://github.com/
