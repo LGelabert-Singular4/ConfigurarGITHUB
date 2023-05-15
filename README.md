@@ -2,7 +2,7 @@
 
 Repositorio creado para la documentacion de la **_creacion y utilizacion_ de GITHUB**
 
-### CREACION DE CUENTA
+## CREACION DE CUENTA
 
 Lo primero que hay que hacer es **entrar a este link**: https://github.com/
 
