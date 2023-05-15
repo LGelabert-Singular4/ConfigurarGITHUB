@@ -28,17 +28,17 @@ Cuando **alguien te busca** en GITHUB puede hacerlo **a travez de estos dos**.
 <summary> ABRIR </summary>
 
 ### GIT
-<details>
+
 Luego de creada la cuenta podriamos **seguir configurando GIT** en la seccion de [GIT](GIT.md)
-</details>
+
 
 ### PUSH Y PULL
-<details>
+
 Luego de clonar el repositorio llega la hora de ponerse a modificarlo, para esto aprenderemos como hacer [PUSH Y PULL](PUSHYPULL.md)
-</details>
+
 
 ### REPOSITORIOS
-<details>
+
 Ahora que ya sabemos como usarlo, aprenderemos a crear un [REPOSITORIO](REPOSITORIOS.md)
-</details>
+
 </details>
