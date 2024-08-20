@@ -10,7 +10,7 @@ Repositorio creado para la documentacion de la **_creacion y utilizacion_ de GIT
 - [x] Repositorios
 - [ ] Merge Conflict
 - [ ] Empreasas
-- [ ] Teams
+- [x] Teams
 
 
 ## CREACION DE CUENTA
